@@ -22,6 +22,11 @@ function App() {
       description: "Mléko, chleba, máslo a zeleninu.",
       done: false,
     },
+      {
+        title: "Kup dárky na vánoce",
+        description: "Napiš si seznam dárků a začni je pomale nakupovat.",
+        done: true,
+      },
   ]);
 
   return (
